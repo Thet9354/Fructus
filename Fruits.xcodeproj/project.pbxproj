@@ -14,6 +14,19 @@
 		D3BF82082AD3978E00D18382 /* FruitsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BF82072AD3978E00D18382 /* FruitsTests.swift */; };
 		D3BF82122AD3978E00D18382 /* FruitsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BF82112AD3978E00D18382 /* FruitsUITests.swift */; };
 		D3BF82142AD3978E00D18382 /* FruitsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BF82132AD3978E00D18382 /* FruitsUITestsLaunchTests.swift */; };
+		D3BF82232AD77DA400D18382 /* FruitCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BF82222AD77DA400D18382 /* FruitCardView.swift */; };
+		D3BF82252AD783DF00D18382 /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BF82242AD783DF00D18382 /* StartButtonView.swift */; };
+		D3BF82272AD7879F00D18382 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BF82262AD7879F00D18382 /* OnboardingView.swift */; };
+		D3BF822A2AD7921200D18382 /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BF82292AD7921200D18382 /* FruitModel.swift */; };
+		D3BF822D2AD7931500D18382 /* FruitData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BF822C2AD7931500D18382 /* FruitData.swift */; };
+		D3BF822F2AD7D99C00D18382 /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BF822E2AD7D99C00D18382 /* FruitRowView.swift */; };
+		D3BF82312AD7E27100D18382 /* FruitDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BF82302AD7E27100D18382 /* FruitDetailView.swift */; };
+		D3BF82332AD7E6E800D18382 /* FruitHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BF82322AD7E6E800D18382 /* FruitHeaderView.swift */; };
+		D3BF82352AD7E91B00D18382 /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BF82342AD7E91B00D18382 /* SourceLinkView.swift */; };
+		D3BF82372AD7EDA100D18382 /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BF82362AD7EDA100D18382 /* FruitNutrientsView.swift */; };
+		D3BF82392AD8C7AC00D18382 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BF82382AD8C7AC00D18382 /* SettingsView.swift */; };
+		D3BF823B2AD8CD4D00D18382 /* SettingsLableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BF823A2AD8CD4D00D18382 /* SettingsLableView.swift */; };
+		D3BF823D2AD8D42F00D18382 /* SettingsRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BF823C2AD8D42F00D18382 /* SettingsRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +58,19 @@
 		D3BF820D2AD3978E00D18382 /* FruitsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FruitsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3BF82112AD3978E00D18382 /* FruitsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitsUITests.swift; sourceTree = "<group>"; };
 		D3BF82132AD3978E00D18382 /* FruitsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D3BF82222AD77DA400D18382 /* FruitCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitCardView.swift; sourceTree = "<group>"; };
+		D3BF82242AD783DF00D18382 /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
+		D3BF82262AD7879F00D18382 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		D3BF82292AD7921200D18382 /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
+		D3BF822C2AD7931500D18382 /* FruitData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitData.swift; sourceTree = "<group>"; };
+		D3BF822E2AD7D99C00D18382 /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
+		D3BF82302AD7E27100D18382 /* FruitDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitDetailView.swift; sourceTree = "<group>"; };
+		D3BF82322AD7E6E800D18382 /* FruitHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitHeaderView.swift; sourceTree = "<group>"; };
+		D3BF82342AD7E91B00D18382 /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
+		D3BF82362AD7EDA100D18382 /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
+		D3BF82382AD8C7AC00D18382 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		D3BF823A2AD8CD4D00D18382 /* SettingsLableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsLableView.swift; sourceTree = "<group>"; };
+		D3BF823C2AD8D42F00D18382 /* SettingsRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,8 +121,10 @@
 		D3BF81F42AD3978C00D18382 /* Fruits */ = {
 			isa = PBXGroup;
 			children = (
-				D3BF81F52AD3978C00D18382 /* FruitsApp.swift */,
-				D3BF81F72AD3978C00D18382 /* ContentView.swift */,
+				D3BF822B2AD7930300D18382 /* Data */,
+				D3BF82282AD791FD00D18382 /* Model */,
+				D3BF82212AD77D6400D18382 /* View */,
+				D3BF82202AD77C4D00D18382 /* App */,
 				D3BF81F92AD3978D00D18382 /* Assets.xcassets */,
 				D3BF81FB2AD3978D00D18382 /* Fruits.entitlements */,
 				D3BF81FC2AD3978D00D18382 /* Preview Content */,
@@ -127,6 +155,49 @@
 				D3BF82132AD3978E00D18382 /* FruitsUITestsLaunchTests.swift */,
 			);
 			path = FruitsUITests;
+			sourceTree = "<group>";
+		};
+		D3BF82202AD77C4D00D18382 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				D3BF81F52AD3978C00D18382 /* FruitsApp.swift */,
+				D3BF81F72AD3978C00D18382 /* ContentView.swift */,
+				D3BF82262AD7879F00D18382 /* OnboardingView.swift */,
+				D3BF82302AD7E27100D18382 /* FruitDetailView.swift */,
+				D3BF82382AD8C7AC00D18382 /* SettingsView.swift */,
+				D3BF823C2AD8D42F00D18382 /* SettingsRowView.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		D3BF82212AD77D6400D18382 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				D3BF82222AD77DA400D18382 /* FruitCardView.swift */,
+				D3BF82242AD783DF00D18382 /* StartButtonView.swift */,
+				D3BF822E2AD7D99C00D18382 /* FruitRowView.swift */,
+				D3BF82322AD7E6E800D18382 /* FruitHeaderView.swift */,
+				D3BF82342AD7E91B00D18382 /* SourceLinkView.swift */,
+				D3BF82362AD7EDA100D18382 /* FruitNutrientsView.swift */,
+				D3BF823A2AD8CD4D00D18382 /* SettingsLableView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		D3BF82282AD791FD00D18382 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D3BF82292AD7921200D18382 /* FruitModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		D3BF822B2AD7930300D18382 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				D3BF822C2AD7931500D18382 /* FruitData.swift */,
+			);
+			path = Data;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -259,8 +330,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D3BF822D2AD7931500D18382 /* FruitData.swift in Sources */,
+				D3BF82352AD7E91B00D18382 /* SourceLinkView.swift in Sources */,
+				D3BF823D2AD8D42F00D18382 /* SettingsRowView.swift in Sources */,
+				D3BF82232AD77DA400D18382 /* FruitCardView.swift in Sources */,
+				D3BF822F2AD7D99C00D18382 /* FruitRowView.swift in Sources */,
+				D3BF82372AD7EDA100D18382 /* FruitNutrientsView.swift in Sources */,
+				D3BF82252AD783DF00D18382 /* StartButtonView.swift in Sources */,
+				D3BF82312AD7E27100D18382 /* FruitDetailView.swift in Sources */,
 				D3BF81F82AD3978C00D18382 /* ContentView.swift in Sources */,
+				D3BF82332AD7E6E800D18382 /* FruitHeaderView.swift in Sources */,
+				D3BF82272AD7879F00D18382 /* OnboardingView.swift in Sources */,
+				D3BF822A2AD7921200D18382 /* FruitModel.swift in Sources */,
 				D3BF81F62AD3978C00D18382 /* FruitsApp.swift in Sources */,
+				D3BF823B2AD8CD4D00D18382 /* SettingsLableView.swift in Sources */,
+				D3BF82392AD8C7AC00D18382 /* SettingsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -434,7 +518,7 @@
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
@@ -472,7 +556,7 @@
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.0;

@@ -8,11 +8,27 @@
 import SwiftUI
 
 struct SettingsLableView: View {
+    // MARK: - PROPERTIES
+    
+    var labelText: String
+    var labelImage: String
+    
+    // MARK: - BODY
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        HStack {
+            Text(labelText.uppercased())
+                .fontWeight(.bold)
+            Spacer()
+            Image(systemName: labelImage)
+        }
     }
 }
 
+// MARK: - PREVIEW
+
 #Preview {
-    SettingsLableView()
+    SettingsLableView(labelText: "Frutus", labelImage: "info.circle")
+        .previewLayout(.sizeThatFits)
+        .padding()
 }
